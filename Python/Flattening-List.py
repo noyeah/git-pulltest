@@ -27,6 +27,7 @@ def flatten(l):
             result.append(i)
     return result
 
+
 print flatten(l)
 
 """
