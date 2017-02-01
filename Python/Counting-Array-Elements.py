@@ -29,4 +29,5 @@ print count(array)
 """
 Result:
 {'Hayato Jin': 4, 'Musashi Tomoe': 2, 'Ryoma Nagare': 1, 'Saotome-agase': 2, 'Michiru Saotome': 3, 'Benkei Kurama': 7}
+python2
 """
